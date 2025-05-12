@@ -22,7 +22,7 @@ para esto entra en vs code y abre la carpeta, entra en en .env.example, copia el
 
 ## opcional: cambia el DB_CONNECTION para vincularlo con mysql
 
-yo use sqlite pero es la misma merga 
+yo use sqlite pero trabaja igual solo modifica los datos en DB_CONNECTION dentro del .env 
 
 ## Pasos finales
 
