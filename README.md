@@ -1,6 +1,6 @@
 # Como instalar la aplicacion 
 
-para instalar la aplicacion primero empieza por el git clone
+para instalar la aplicacion primero realiza un git clone al repositorio
 
 despues debes instalar una serie de librerias esto es mediante los siguientes codigos, entra a la raiz del proyecto y ejecuta 
 
